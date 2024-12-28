@@ -22,8 +22,8 @@ Instruções:
 PREPARAÇÃO - DEFINIÇÃO DE DIRETÓRIOS E CONFIGURAÇÕES INICIAIS
 *******************************************************************************/
 * Definir caminhos para os dados e resultados
-local basedados     "C:\Users\kkbul\OneDrive - STJ- Superior Tribunal de Justiça\UnB\Mestrado em Governança e Inovação em Políticas Públicas\Projeto\Dados\Diretorio Stata\Github_IRDC\IRDC-Analysis-Scripts"
-local resultados	"C:\Users\kkbul\OneDrive - STJ- Superior Tribunal de Justiça\UnB\Mestrado em Governança e Inovação em Políticas Públicas\Projeto\Dados\Diretorio Stata\Github_IRDC\IRDC-Analysis-Scripts\Resultados"
+local basedados     "C:\"
+local resultados	"C:\"
 
 * Fechar qualquer log aberto
 capture log close
