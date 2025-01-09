@@ -4,11 +4,11 @@
 ## Sobre / About
 
 Este repositório contém:
-- **Planilha de dados**: `Dados_IRDC.xlsx` - Dados fictícios utilizados na análise.
+- **Planilha de dados**: `Dados_IRDC.xlsx` - Dados anonimizados dos fornecedores do STJ que foram utilizados na análise.
 - **Script Stata**: `IRDC_Analysis.do` - Código para replicar as análises descritas no artigo.
 
 This repository includes:
-- **Data file**: `Dados_IRDC.xlsx` - Fictitious data used in the analysis.
+- **Data file**: `Dados_IRDC.xlsx` - Anonymized data of STJ suppliers used in the analysis.
 - **Stata script**: `IRDC_Analysis.do` - Code to replicate the analyses described in the paper.
 
 ---
